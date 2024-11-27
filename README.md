@@ -19,10 +19,7 @@ A comprehensive mobile and web application developed to showcase live data point
 ## 📸 Screenshots
 
 ### BTS Mobile App:
-<p align="center">
-  <img src="./BTS2.png" alt="Live Data Tracking" width="30%">
-  <img src="./EMS2.png" alt="Immobilization Feature" width="30%">
-</p>
+![Immobilization Feature](./BTS3.png)
 
 ### BTS Web App
 ![Immobilization Feature](./BTS1.png)
