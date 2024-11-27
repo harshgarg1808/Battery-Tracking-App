@@ -4,18 +4,6 @@ A comprehensive mobile and web application developed to showcase live data point
 
 ---
 
-## 🚀 Features
-
-- **Live Data Visualization**: Displays live data points for fleet operators, offering real-time updates.
-- **Core Functionalities**:
-  - **Immobilization**: Allows fleet operators to remotely disable vehicles for enhanced security.
-  - **Geofencing**: Triggers alerts when vehicles move outside predefined geographic boundaries.
-- **Extensive UI/UX Design**: Wireframed and designed a user-friendly interface for seamless interactions.
-- **Collaborative Development**: Worked cross-functionally with founders, marketing teams, and stakeholders.
-- **App Demos**: Successfully pitched app functionalities to potential clients.
-
----
-
 ## 📸 Screenshots
 
 ### BTS Mobile App:
@@ -32,5 +20,17 @@ A comprehensive mobile and web application developed to showcase live data point
 - **Backend**: Node.js
 - **API Integration**: REST APIs, Google Maps API
 - **Database**: SQL
+
+---
+
+## 🚀 Features
+
+- **Live Data Visualization**: Displays live data points for fleet operators, offering real-time updates.
+- **Core Functionalities**:
+  - **Immobilization**: Allows fleet operators to remotely disable vehicles for enhanced security.
+  - **Geofencing**: Triggers alerts when vehicles move outside predefined geographic boundaries.
+- **Extensive UI/UX Design**: Wireframed and designed a user-friendly interface for seamless interactions.
+- **Collaborative Development**: Worked cross-functionally with founders, marketing teams, and stakeholders.
+- **App Demos**: Successfully pitched app functionalities to potential clients.
 
 ---
